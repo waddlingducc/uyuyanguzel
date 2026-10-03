@@ -1,0 +1,16 @@
+<svg width="49" height="64" viewBox="0 0 49 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_50_9044" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="49" height="64">
+<rect x="0.0196533" width="48" height="64" rx="24" fill="#56B0FF"/>
+</mask>
+<g mask="url(#mask0_50_9044)">
+<mask id="mask1_50_9044" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="10" width="49" height="64">
+<rect x="0.0196533" y="10" width="48" height="64" rx="24" fill="#2D3B91"/>
+</mask>
+<g mask="url(#mask1_50_9044)">
+<ellipse cx="24.0197" cy="76" rx="50" ry="54" fill="black" fill-opacity="0.04"/>
+<ellipse cx="24.022" cy="76.0002" rx="40.6977" ry="43.9535" fill="black" fill-opacity="0.04"/>
+<ellipse cx="24.022" cy="76.0002" rx="30.7309" ry="33.1894" fill="black" fill-opacity="0.04"/>
+<ellipse cx="24.0204" cy="75.9997" rx="21.2625" ry="22.9635" fill="black" fill-opacity="0.04"/>
+</g>
+</g>
+</svg>
